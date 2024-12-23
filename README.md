@@ -6,7 +6,9 @@
    For Developement Build
 5. streamlit run a.py
 
-#Change the Mongo DB URL to your own when using development build
+# Change the Mongo DB URL to your own when using development build
 mongodb creds 
+
 saisantoshpradyumna@gmail.com
+
 SAISANTOSH
